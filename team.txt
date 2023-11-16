@@ -1,0 +1,512 @@
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Torwart"><div class=rn_nummer>1</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/119634-1625760128.png?lm=1" title="Franco Armani" alt="Franco Armani" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/franco-armani/profil/spieler/119634">
+                Franco Armani            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Goalkeeper        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Oct 16, 1986 (37)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/franco-armani/marktwertverlauf/spieler/119634">€1.50m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Torwart"><div class=rn_nummer>33</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/626917-1644877824.png?lm=1" title="Ezequiel Centurión" alt="Ezequiel Centurión" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/ezequiel-centurion/profil/spieler/626917">
+                Ezequiel Centurión            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Goalkeeper        </td>
+    </tr>
+</table>
+</td><td class="zentriert">May 20, 1997 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/ezequiel-centurion/marktwertverlauf/spieler/626917">€750k</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Torwart"><div class=rn_nummer>37</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1131420-1693314667.png?lm=1" title="Lucas Lavagnino" alt="Lucas Lavagnino" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/lucas-lavagnino/profil/spieler/1131420">
+                Lucas Lavagnino            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Goalkeeper        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Aug 22, 2004 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/lucas-lavagnino/marktwertverlauf/spieler/1131420">€150k</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>2</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Defensor Sporting Club; date: Aug 24, 2023; fee: €3.40m" href="/defensor-sporting-club/startseite/verein/2619/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/2619.png?lm=1415017376" title="Defensor Sporting Club" alt="Defensor Sporting Club" class="" /></a></span><a title="Joined from Defensor Sporting Club; date: Aug 24, 2023; fee: €3.40m" class="hide-for-small" href="/defensor-sporting-club/startseite/verein/2619/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/898352-1694001293.png?lm=1" title="Sebastián Boselli" alt="Sebastián Boselli" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/sebastian-boselli/profil/spieler/898352">
+                Sebastián Boselli            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Dec 4, 2003 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguay" alt="Uruguay" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/sebastian-boselli/marktwertverlauf/spieler/898352">€4.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>17</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/271478-1625770264.png?lm=1" title="Paulo Díaz" alt="Paulo Díaz" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/paulo-diaz/profil/spieler/271478">
+                Paulo Díaz            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Aug 25, 1994 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/33.png?lm=1520611569" title="Chile" alt="Chile" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/paulo-diaz/marktwertverlauf/spieler/271478">€4.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>23</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/275512-1693314912.png?lm=1" title="Emanuel Mammana" alt="Emanuel Mammana" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/emanuel-mammana/profil/spieler/275512">
+                Emanuel Mammana            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Feb 10, 1996 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/emanuel-mammana/marktwertverlauf/spieler/275512">€4.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>6</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/401576-1625770363.png?lm=1" title="David Martínez" alt="David Martínez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/david-martinez/profil/spieler/401576">
+                David Martínez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jan 21, 1998 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/132.png?lm=1520611569" title="Paraguay" alt="Paraguay" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/david-martinez/marktwertverlauf/spieler/401576">€3.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>14</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="On loan from Inter Miami CF until Dec 31, 2023" href="/inter-miami-cf/kadernaechstesaison/verein/69261/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/69261.png?lm=1573561237" title="Inter Miami CF" alt="Inter Miami CF" class="" /></a></span><a title="On loan from Inter Miami CF until Dec 31, 2023" class="hide-for-small" href="/inter-miami-cf/kadernaechstesaison/verein/69261/saison_id/2023"><img src="/images/icons/leihe_beta_kader.png" width="19px" height="19px" class="wechsel-symbol" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/113130-1644878036.png?lm=1" title="Leandro González Pírez" alt="Leandro González Pírez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/leandro-gonzalez-pirez/profil/spieler/113130">
+                Leandro González Pírez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Feb 26, 1992 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/leandro-gonzalez-pirez/marktwertverlauf/spieler/113130">€1.20m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>3</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from CD Cruz Azul; date: Jul 18, 2023; fee: free transfer" href="/cd-cruz-azul/startseite/verein/3711/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/3711.png?lm=1684395545" title="CD Cruz Azul" alt="CD Cruz Azul" class="" /></a></span><a title="Joined from CD Cruz Azul; date: Jul 18, 2023; fee: free transfer" class="hide-for-small" href="/cd-cruz-azul/startseite/verein/3711/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/11111-1693314815.png?lm=1" title="Ramiro Funes Mori" alt="Ramiro Funes Mori" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/ramiro-funes-mori/profil/spieler/11111">
+                Ramiro Funes Mori            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Mar 5, 1991 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/184.png?lm=1520611569" title="United States" alt="United States" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/ramiro-funes-mori/marktwertverlauf/spieler/11111">€1.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>4</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joining: Without Club; date: Jan 1, 2024; fee: -" href="/without-club/kadernaechstesaison/verein/515/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/515.png?lm=1456997255" title="Without Club" alt="Without Club" class="" /></a></span><a title="Joining: Without Club; date: Jan 1, 2024; fee: -" class="hide-for-small" href="/without-club/kadernaechstesaison/verein/515/saison_id/2023"><img src="/images/icons/abgang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/39095-1625770735.png?lm=1" title="Jonatan Maidana" alt="Jonatan Maidana" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/jonatan-maidana/profil/spieler/39095">
+                Jonatan Maidana            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jul 29, 1985 (38)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/jonatan-maidana/marktwertverlauf/spieler/39095">€100k</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>13</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/540458-1693314874.png?lm=1" title="Enzo Díaz" alt="Enzo Díaz" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/enzo-diaz/profil/spieler/540458">
+                Enzo Díaz            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Left-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Dec 7, 1995 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/enzo-diaz/marktwertverlauf/spieler/540458">€4.50m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>20</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/115183-1625770873.png?lm=1" title="Milton Casco" alt="Milton Casco" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/milton-casco/profil/spieler/115183">
+                Milton Casco            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Left-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Apr 11, 1988 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/milton-casco/marktwertverlauf/spieler/115183">€750k</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class=rn_nummer>15</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/621369-1644878001.png?lm=1" title="Andrés Herrera" alt="Andrés Herrera" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/andres-herrera/profil/spieler/621369">
+                Andrés Herrera            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Right-Back        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Nov 3, 1998 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/andres-herrera/marktwertverlauf/spieler/621369">€2.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>22</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/240900-1693315007.png?lm=1" title="Matías Kranevitter" alt="Matías Kranevitter" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/matias-kranevitter/profil/spieler/240900">
+                Matías Kranevitter            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensive Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">May 21, 1993 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/matias-kranevitter/marktwertverlauf/spieler/240900">€2.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>5</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/115507-1625771265.png?lm=1" title="Bruno Zuculini" alt="Bruno Zuculini" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/bruno-zuculini/profil/spieler/115507">
+                Bruno Zuculini            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensive Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Apr 2, 1993 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/bruno-zuculini/marktwertverlauf/spieler/115507">€1.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>24</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/56066-1625771376.png?lm=1" title="Enzo Pérez" alt="Enzo Pérez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/enzo-perez/profil/spieler/56066">
+                Enzo Pérez<span title="Team captain" class="kapitaenicon-table icons_sprite">&nbsp;</span><span title="Indirect card suspension - until Nov 30, 2023 - Copa de la Liga Profesional de Fútbol - 1 matchday" class="ausfall-2-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensive Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Feb 22, 1986 (37)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/enzo-perez/marktwertverlauf/spieler/56066">€1.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>11</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/397458-1625771741.png?lm=1" title="Nicolás de la Cruz" alt="Nicolás de la Cruz" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/nicolas-de-la-cruz/profil/spieler/397458">
+                Nicolás de la Cruz            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Central Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jun 1, 1997 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguay" alt="Uruguay" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/nicolas-de-la-cruz/marktwertverlauf/spieler/397458">€11.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>29</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/424045-1693315106.png?lm=1" title="Rodrigo Aliendro" alt="Rodrigo Aliendro" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/rodrigo-aliendro/profil/spieler/424045">
+                Rodrigo Aliendro            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Central Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Feb 16, 1991 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/rodrigo-aliendro/marktwertverlauf/spieler/424045">€2.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>10</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from West Ham United; date: Aug 2, 2023; fee: free transfer" href="/west-ham-united/startseite/verein/379/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/379.png?lm=1464675260" title="West Ham United" alt="West Ham United" class="" /></a></span><a title="Joined from West Ham United; date: Aug 2, 2023; fee: free transfer" class="hide-for-small" href="/west-ham-united/startseite/verein/379/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/135853-1694001401.png?lm=1" title="Manuel Lanzini" alt="Manuel Lanzini" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/manuel-lanzini/profil/spieler/135853">
+                Manuel Lanzini            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Attacking Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Feb 15, 1993 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/manuel-lanzini/marktwertverlauf/spieler/135853">€5.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>18</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Al-Nassr FC; date: Aug 24, 2023; fee: free transfer" href="/al-nassr-fc/startseite/verein/18544/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/18544.png?lm=1693570524" title="Al-Nassr FC" alt="Al-Nassr FC" class="" /></a></span><a title="Joined from Al-Nassr FC; date: Aug 24, 2023; fee: free transfer" class="hide-for-small" href="/al-nassr-fc/startseite/verein/18544/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/281405-1685033658.PNG?lm=1" title="Pity Martínez" alt="Pity Martínez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/pity-martinez/profil/spieler/281405">
+                Pity Martínez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Attacking Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jun 13, 1993 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/pity-martinez/marktwertverlauf/spieler/281405">€5.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>19</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Internal transfer: CA River Plate II; date: Aug 1, 2023" href="/ca-river-plate-ii/startseite/verein/14837/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/14837.png?lm=1645539487" title="CA River Plate II" alt="CA River Plate II" class="" /></a></span><a title="Internal transfer: CA River Plate II; date: Aug 1, 2023" class="hide-for-small" href="/ca-river-plate-ii/startseite/verein/14837/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/994536-1694001438.png?lm=1" title="Claudio Echeverri" alt="Claudio Echeverri" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/claudio-echeverri/profil/spieler/994536">
+                Claudio Echeverri<span title="Called up to national team - until Dec 5, 2023 - cross-competition" class="ausfall-5-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Attacking Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jan 2, 2006 (17)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/claudio-echeverri/marktwertverlauf/spieler/994536">€4.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>8</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/610590-1625772025.png?lm=1" title="Agustín Palavecino" alt="Agustín Palavecino" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/agustin-palavecino/profil/spieler/610590">
+                Agustín Palavecino            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Attacking Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Nov 9, 1996 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Spain" alt="Spain" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/agustin-palavecino/marktwertverlauf/spieler/610590">€3.00m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class=rn_nummer>26</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/50669-1693315048.png?lm=1" title="Nacho Fernández" alt="Nacho Fernández" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/nacho-fernandez/profil/spieler/50669">
+                Nacho Fernández            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Attacking Midfield        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jan 12, 1990 (33)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/nacho-fernandez/marktwertverlauf/spieler/50669">€2.20m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>21</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/456623-1618606445.JPG?lm=1" title="Esequiel Barco" alt="Esequiel Barco" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/esequiel-barco/profil/spieler/456623">
+                Esequiel Barco            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Left Winger        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Mar 29, 1999 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/esequiel-barco/marktwertverlauf/spieler/456623">€8.50m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>36</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/756991-1658699076.png?lm=1" title="Pablo Solari" alt="Pablo Solari" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/pablo-solari/profil/spieler/756991">
+                Pablo Solari            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Right Winger        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Mar 22, 2001 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/pablo-solari/marktwertverlauf/spieler/756991">€8.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>31</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/661131-1625772151.png?lm=1" title="Santiago Simón" alt="Santiago Simón" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/santiago-simon/profil/spieler/661131">
+                Santiago Simón            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Right Winger        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jun 13, 2002 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/santiago-simon/marktwertverlauf/spieler/661131">€4.50m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>9</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/211397-1693315161.png?lm=1" title="Miguel Borja" alt="Miguel Borja" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/miguel-borja/profil/spieler/211397">
+                Miguel Borja            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Forward        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jan 26, 1993 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/83.png?lm=1520611569" title="Colombia" alt="Colombia" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/miguel-borja/marktwertverlauf/spieler/211397">€3.80m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>16</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Joined from Inter Milan; date: Jul 21, 2023; fee: €4.50m" href="/inter-milan/startseite/verein/46/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/46.png?lm=1618900989" title="Inter Milan" alt="Inter Milan" class="" /></a></span><a title="Joined from Inter Milan; date: Jul 21, 2023; fee: €4.50m" class="hide-for-small" href="/inter-milan/startseite/verein/46/saison_id/2023"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/491705-1693315193.png?lm=1" title="Facundo Colidio" alt="Facundo Colidio" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/facundo-colidio/profil/spieler/491705">
+                Facundo Colidio            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Forward        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Jan 4, 2000 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Italy" alt="Italy" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/facundo-colidio/marktwertverlauf/spieler/491705">€3.50m</a></td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>25</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/80197-1693315233.png?lm=1" title="Salomón Rondón" alt="Salomón Rondón" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/salomon-rondon/profil/spieler/80197">
+                Salomón Rondón            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Forward        </td>
+    </tr>
+</table>
+</td><td class="zentriert">Sep 16, 1989 (34)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/182.png?lm=1520611569" title="Venezuela" alt="Venezuela" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/salomon-rondon/marktwertverlauf/spieler/80197">€1.00m</a></td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class=rn_nummer>7</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/66660-1625772580.png?lm=1" title="Matías Suárez" alt="Matías Suárez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/matias-suarez/profil/spieler/66660">
+                Matías Suárez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Centre-Forward        </td>
+    </tr>
+</table>
+</td><td class="zentriert">May 9, 1988 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/19.png?lm=1520611569" title="Belgium" alt="Belgium" class="flaggenrahmen" /></td><td class="rechts hauptlink"><a href="/matias-suarez/marktwertverlauf/spieler/66660">€300k</a></td></tr>
+</tbody>
+</table>
